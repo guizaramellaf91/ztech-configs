@@ -1,2 +1,3 @@
 # ztech-configs
-Configurações
+## Configurações
+### Validações
