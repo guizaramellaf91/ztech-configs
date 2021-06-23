@@ -1,0 +1,2 @@
+# ztech-configs
+Configurações
