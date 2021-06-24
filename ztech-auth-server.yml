@@ -30,7 +30,7 @@ spring:
         password: '12345'
         platform: mysql
         schema: classpath:/sql/schema.sql
-        url: jdbc:mysql://localhost/oauth?verifyServerCertificate=false&useSSL=false&requireSSL=false
+        url: jdbc:mysql://localhost/ztech?verifyServerCertificate=false&useSSL=false&requireSSL=false
         username: root
     jpa:
         database-platform: org.hibernate.dialect.MySQLDialect
